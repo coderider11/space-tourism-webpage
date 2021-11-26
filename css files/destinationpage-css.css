@@ -1,0 +1,64 @@
+.destination-page {
+  background-image: url("../assets/destination/background-destination-desktop.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 0px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+.destination-tab {
+  margin-left: 280px;
+}
+.destination-moon-tab {
+  margin-left: 80px;
+}
+.destination-mars-tab {
+  margin-left: 200px;
+}
+.destination-europa-tab {
+  margin-left: 330px;
+}
+.destination-titan-tab {
+  margin-left: 470px;
+}
+.middle-destination-container {
+  margin-top: 180px;
+  margin-right: 150px;
+  width: 35%;
+  text-align: left;
+}
+
+.destination-nav-menu {
+  position: absolute;
+  left: 688px;
+  top: 200px;
+  width: 55%;
+  height: 10%;
+  padding-top: 30px;
+}
+
+.destination-nav-menu-link {
+  font-size: 16px;
+  color: white;
+  padding-left: 80px;
+  text-decoration: none;
+  letter-spacing: 2.7px;
+}
+
+.moon {
+  position: absolute;
+  width: 45%;
+  right: 80px;
+  top: 310px;
+  letter-spacing: 2.75px;
+}
+
+.destination-hr {
+  border-style: solid;
+  border-bottom: none;
+  margin-top: 45px;
+  margin-left: 2px;
+  border: solid;
+  border-bottom: none;
+  color: #fffff71c;
+  width: 550px;
+}

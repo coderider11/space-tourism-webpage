@@ -1,0 +1,38 @@
+.crew-page {
+  background-image: url("../assets/crew/background-crew-desktop.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  margin: 0px;
+  font-family: "Barlow Condensed", sans-serif;
+}
+
+.crew-tab {
+  margin-left: 450px;
+}
+
+.middle-crew-container {
+  margin-top: 180px;
+  margin-right: 150px;
+  width: 40%;
+}
+
+.crew{
+  margin-top: 250px;
+  margin-left: 200px;
+}
+.crew-h1{
+    font-size:38px;
+}
+.navigable-link{
+    height: 16px;
+    width: 16px;
+    background-color:#fffff71c;
+    border-radius: 50%;
+    display: inline-block;
+    text-decoration:none;
+    margin-left:9px;
+}
+
+.navigable-link:hover{
+  background-color: white;
+}
